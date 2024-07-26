@@ -4,3 +4,4 @@ ngemba,ré,gloria
 nayadi,sib,kyrie
 o_kembo,ré,gloria
 o_nkembo,ré,gloria
+bwania,kyrie,sib
